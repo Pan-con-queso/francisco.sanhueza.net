@@ -41,5 +41,9 @@
   "bugs": {
     "url": "https://github.com/nusserstudios/tailbliss/issues"
   },
-  "homepage": "https://github.com/nusserstudios/tailbliss"
+  "homepage": "https://github.com/nusserstudios/tailbliss",
+  "dependencies": {
+    "markdown-it": "^14.1.0",
+    "markdown-it-sub": "^2.0.0"
+  }
 }

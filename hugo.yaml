@@ -1,15 +1,17 @@
 baseURL: ''
-title: TailBliss
+title: Francisco Sanhueza Matamala
 languageCode: en-us
 DefaultContentLanguage: en
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
 canonifyURLs: true
-paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+
+pagination:
+  pagerSize: 9
 
 markup:
   goldmark:
@@ -47,20 +49,24 @@ markup:
 
 params:
   author: Nusser Studios
-  authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  authorimage: ../assets/images/global/Panchito_drawing.png
+  og_image: /images/Panchito_drawing.png
+  moto: "Master in Applied Mathematics."
+  description: "Data and ML Engineering"
   disable_theme_toggle: false
-  disable_stay_uptodate: false
+  disable_stay_uptodate: true
 
   p1:
-    heading: "Our mission"
-    image: "images/pages/our-mission.png"
+    heading: "About me"
+    image: "images/pages/panchito_photo.jpg"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-      - text: "Sollicitudin tristique eros erat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna. Sollicitudin tristique eroserat odio sed vitae, consequat turpis elementum. Lorem nibh vel, eget pretium arcu vitae. Eros eu viverra donec ut volutpat donec laoreet quam urna."
-      - text: "Rhoncus nisl, libero egestas diam fermentum dui. At quis tincidunt vel ultricies. Vulputate aliquet velit faucibus semper. Pellentesque in venenatis vestibulum consectetur nibh id. In id ut tempus egestas. Enim sit aliquam nec, a. Morbi enim fermentum lacus in. Viverra."
+      - text: "I've built scalable pipelines, dealing with extraction, data warehousing and serving data for analytics, leading several projects with interdisciplinary teams and taking care of following strict standards of code quality."
+      - text: "Interested in implementing data infrastructure for data analytics and data science to help solving real world problems. Goal-oriented, team player and always learning something new."
+      - text: "I have worked as a Data Engineer in top Chilean startups, implemententing batch and streaming pipelines from scratch, using tools like Airflow, Bigquery, dbt, Prefect, Docker and Quix Streams."
+      - text: "Co-founder of the Santiago Tensorflow User group where we organize talks on state-of-the-art applications of Machine Learning."
+      - text: "I'm currently working as a Data Scientist at Noisegrasp and living in Mexico with my wife. If you want to work with me, [click on this link to send me an email!](/contact/)"
+      #- text: "My other areas of interest is how to solve problems of optimization with applications on resource management, like vehicle routing or scheduling problems."
+ 
   p2:
     heading: "Just in time for Hacktoberfest with JIT Tailwind."
     image: "images/pages/hacktoberfest.jpg"
@@ -82,10 +88,11 @@ params:
       - identifier: d
       - identifier: e
       - identifier: f
+      
   p4:
-    heading: "From the blog"
+    heading: "Featured projects"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Click the links to revise the details"
   p5:
     heading: "Stay Up to Date"
     content:
@@ -96,86 +103,62 @@ params:
     button: "Notify me"
 
   social_media:
+    linkedin:
+      enabled: true
+      url: 'https://www.linkedin.com/in/franciscosanhuezamatamala/'
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: 'https://github.com/Pan-con-queso/'
     facebook:
-      enabled: true
+      enabled: false
       url: 'https://facebook.com/nusserstudios'
     instagram:
-      enabled: true
+      enabled: false
       url: 'https://instagram.com/nusserstudios'
     twitter:
-      enabled: true
+      enabled: false
       url: 'https://twitter.com/nusserstudios'
     
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: CV
+      name: CV
+      url: /CV/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
     - identifier: categories
       pre: dropdown
-      name: Categories
+      name: Posts
       weight: 30
-    - identifier: dropdown
-      pre: complexdropdown
-      name: Dropdown
+    - identifier: notes
+      name: Notes
+      url: /apuntes
       weight: 40
     - identifier: contact
       name: Contact
       url: /contact/
       weight: 50
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
-      weight: 10
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-  dropdown:
-    - identifier: appearance
-      pre: stars # can be stars, comments or piechart
-      name: Appearance
-      post: "Easy customization"
-      url: "#"
-      weight: 10
-    - identifier: comments
-      pre: comments # can be stars, comments or piechart
-      name: Comments
-      post: "Check your latest comments"
-      url: "#"
-      weight: 20
-    - identifier: analytics
-      pre: piechart # can be stars, comments or piechart
-      name: Analytics
-      post: "Take a look at your statistics"
-      url: "#"
-      weight: 30
-  footer:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: portfolio
+      name: Portfolio
+      url: /categories/portfolio/
       weight: 10
     - identifier: blog
       name: Blog
       url: /categories/blog/
       weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+  footer:
+    - identifier: portfolio
+      name: Portfolio
+      url: /categories/portfolio/
+      weight: 20
+    - identifier: blog 
+      name: Blog
+      url: /categories/blog/
       weight: 30
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: CV
+      name: CV
+      url: /CV/
       weight: 40
     - identifier: contact
       name: Contact
