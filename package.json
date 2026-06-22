@@ -43,7 +43,7 @@
   },
   "homepage": "https://github.com/nusserstudios/tailbliss",
   "dependencies": {
-    "markdown-it": "^14.1.0",
+    "markdown-it": "^14.2.0",
     "markdown-it-sub": "^2.0.0"
   }
 }
