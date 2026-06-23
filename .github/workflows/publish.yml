@@ -24,7 +24,7 @@ jobs:
         run: npm i
 
       - name: Build Site
-        run: hugo --minify -d $GITHUB_WORKSPACE/dist
+        run: hugo --minify -d $GITHUB_WORKSPACE/public
 
       - name: Run HtmlTest
         continue-on-error: true
