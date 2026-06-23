@@ -40,7 +40,7 @@ jobs:
           retention-days: 7
 
       - name: Publish to Webspace
-        uses: wangyucode/sftp-upload-action@v1.4.8
+        uses: wangyucode/sftp-upload-action@v3
         with:
           host: ${{ secrets.HOST }}
           username: ${{ secrets.USER }}
