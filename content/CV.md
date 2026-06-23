@@ -133,7 +133,9 @@ Python, Latex, Matlab, C++, Microsoft Office, Java, Github, SQL, GCP, Bigquery, 
 
 ## **Personal Experience and Hobbies**
 
-**2022 to date** Taking accordion classes at Instituto chileno del acordeón.
+**2025 to 2026** Took music composing classes in La Musicateca
+
+**2022 to 2024** Took accordion classes at Instituto chileno del acordeón.
 
 **2021** Design and programming of website for page to Programación y diseño web en campaña de difusión del nahuatl de Milpa Alta ["Yola y su familia"](/posts/yola/)
 
