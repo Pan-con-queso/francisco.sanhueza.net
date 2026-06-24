@@ -10,7 +10,7 @@ categories: ["CV"]
 
 # **About me**
 
-Master in Applied Mathematics and Mathematical Engineer. I've build scalable pipelines, dealing with extraction, data warehousing and serving data for analytics, leading several projects with interdisciplinary teams and following strict standards of code quality. Interested in implementing data infrastructure for data analytics and data science to help solving real world problems. Goal-oriented, team player and always learning something new.
+Master in Applied Mathematics and Mathematical Engineer. I've build scalable pipelines, dealing with extraction, data warehousing and serving data for analytics, leading several projects with interdisciplinary teams and following strict standards of code quality. Interested in implementing data infrastructure for data analytics and data science to help solving real world problems. Goal-oriented, team player and always reading on new technologies.
 
 ## **Computing Skills**
 
@@ -43,7 +43,7 @@ Python, Latex, Matlab, C++, Microsoft Office, Java, Github, SQL, GCP, Bigquery, 
 
 **2018** Internship at Nic Chile Research Labs. Worked measuring and running experiments of changing the kind of physical network on the robustness of internet networks.
 
-**2017** Internship at clínica INDISA. used statistics and Databases to detect anomalies in no-show patients.
+**2017** Internship at clínic INDISA. used statistics and Databases to detect anomalies in no-show patients.
 
 **2016** Internship at Laboratorio de Investigación Pesquera, in Universidad Austral de Chile, Puerto Montt. Built databases for use in fisheries research.
 
@@ -111,11 +111,11 @@ Python, Latex, Matlab, C++, Microsoft Office, Java, Github, SQL, GCP, Bigquery, 
 
 **2021** Approved Course "Machine learning in python with scikit-learn" by INRIA through platform FUN MOOC.
 
-**2021** Attended XVI School of Discrete Maths in Instituto de Sistemas Complejos of Valparaiso. Organized by CMM.
+**2021** Attended XVI School of Discrete Maths in Instituto de Sistemas Complejos of Valparaiso. Organized by CMM (Online)
 
-**2021** Attended conference SODA21, organized by SIAM
+**2021** Attended conference SODA21, organized by SIAM (online)
 
-**2020** Attended tutorial of VRPSolver software, organized by CMM
+**2020** Attended tutorial of VRPSolver software, organized by CMM (online)
 
 **2019** Attended conference FLACAM, done in Faculty of Physical and Mathematical Sciences of Universidad de Chile.
 
@@ -139,19 +139,19 @@ Python, Latex, Matlab, C++, Microsoft Office, Java, Github, SQL, GCP, Bigquery, 
 
 **2021** Design and programming of website for page to Programación y diseño web en campaña de difusión del nahuatl de Milpa Alta ["Yola y su familia"](/posts/yola/)
 
-**2019** Organized ciname showings for studends of Mathematican Engineering of Universidad de Chile alongside Francisco Aliaga and Vicente Ocqueteau. We show movies of diverse genres and themes, sometimes accompanied by short films.
+**2019** Organized [cinema showings](/posts/cinema/) for students of Mathematican Engineering of Universidad de Chile alongside Francisco Aliaga and Vicente Ocqueteau. We show movies of diverse genres and themes, sometimes accompanied by short films.
 
 **2017** Participant in campaign "Yo No Digo".
 
-**2017** Vicepresident of the Mathematican Engineering Students Union (CEIMAT) of Universidad de Chile. In charge of activities publicity. 
+**2017** Vicepresident of the Mathematican Engineering Students Union (CEIMAT) of Universidad de Chile. In charge of publicity of activities. 
 
 **2015** Volunteer at Hora del código
 
-**2015 to 2017** Member of El Diario Integral, redanting articles and serving as director.
+**2015 to 2017** Member of El Diario Integral, redacting articles and serving as director.
 
 **2015 to 2021** Tenor 1 in the Choir of the Faculty of Physical and Mathematical Sciences of Universidad de Chile. In 2018 I served as the choir treasurer.
 
-**2014 to 2019** Founding menber of Comunidad Felicidad. Organizer of the costume day, balloon day, hat day, sandwich day and artictic intervention of the communal christmas tree in 2015. Also served as treasurer of the community.
+**2014 to 2019** Founding member of Comunidad Felicidad. Organizer of the costume day, balloon day, hat day, sandwich day and artistic intervention of the communal christmas tree in 2015. Also served as treasurer of the community.
 
 **2013 to 2017** Member of Radio Integral. In 2014 and 2015 I served as publicity director. Also in 2014 I served as radio programming director. 
 
