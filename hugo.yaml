@@ -132,7 +132,7 @@ menu:
       weight: 30
     - identifier: notes
       name: Notes
-      url: /apuntes
+      url: /apuntes/
       weight: 40
     - identifier: contact
       name: Contact
