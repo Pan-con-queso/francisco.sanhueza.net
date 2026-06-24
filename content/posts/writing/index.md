@@ -26,8 +26,6 @@ Siete años después, he conocido a todas las autoridades, quienes siempre me re
 
 Mi calidad física ha empeorado, he engordado 12 kilos y hace meses que no salgo de 851. Pero no estoy solo, muchos jóvenes están siguiendo mis pasos, agradecidos de las bondades de este lugar.
 
-Este cuento ganó el tercer lugar en ese año c:
-
 ### Intento de asalto
 
 Volvía cocido de club hípico, entré a la estación, saqué la tarjeta y crucé el torniquete, en el andén, el vagón no quería abrir, golpeé la puerta tan fuerte que se quebró. Estupefacto, lo único que atiné a hacer fue entrar al tren para arrancar de los guardias, me fondeé debajo de unas escalas y temí por mi vida.

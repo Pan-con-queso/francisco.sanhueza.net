@@ -16,11 +16,11 @@ Since a long time ago I've been a fan of They Might be Giants, who use a lot of 
 
 My accordion since 2009 is a gift chosen my my great aunt Leyla, who was a music and arts teacher. From 2022 to 2024 I took lessons on the Instituto Chileno del Acordeón with Manuel Bustamante. Since I live in México, I go play some songs to the grave of my wife's grandparents for Dia de Muertos.
 
-Currently I'm taking a course in music composition with [Meni Louit](https://www.instagram.com/_musicateca/)
+I took a course in music composition with [Meni Louit](https://www.instagram.com/_musicateca/) between 2025 and 2026.
 
 ## Repertoire
 
-I'm not a virtuoso but I can play the following songs
+I can play the following songs
 
 * Beer Barrel Polka
 * El Gorro de Lana
