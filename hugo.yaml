@@ -160,10 +160,14 @@ menu:
       name: CV
       url: /CV/
       weight: 40
+    - identifier: notes
+      name: Notes
+      url: https://francisco.sanhueza.net/apuntes/
+      weight: 50
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 60
 
 taxonomies:
   category: Categories
